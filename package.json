@@ -1,0 +1,24 @@
+{
+  "name": "HANGMAN-CLI",
+  "version": "1.0.0",
+  "description": "a hangman game created using JS constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kthomas0455/HANGMAN-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kthomas0455/HANGMAN-CLI/issues"
+  },
+  "homepage": "https://github.com/kthomas0455/HANGMAN-CLI#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "save": "^2.3.2"
+  }
+}
