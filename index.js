@@ -2,6 +2,8 @@ var Word = require('./word.js');
 var prompt = require('prompt');
 
 console.log("Welcome to Marvel Character Hangman!");
+console.log('Your Heros of choice: ', '(ironman, ', 'deadpool, ', 'wolverine, ', 'hulk, ', 'thor, ', 'groot, ', 'spiderman) ');
+console.log("Guess a letter!");
 
 console.log("-----------------------------");
 prompt.start();
