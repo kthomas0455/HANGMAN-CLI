@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kthomas0455/HANGMAN-CLI#readme",
   "dependencies": {
     "inquirer": "^5.2.0",
+    "prompt": "^1.0.0",
     "save": "^2.3.2"
   }
 }
